@@ -2,7 +2,6 @@ from datetime import date
 import requests
 import json
 import re
-from requests.exceptions import HTTPError
 
 
 def kwota_walidacja(kwota):
