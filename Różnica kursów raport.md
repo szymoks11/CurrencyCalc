@@ -1,4 +1,4 @@
-# Raport dotyczacy programu obliczajacego roznice kursow aalut
+# Raport dotyczacy programu obliczajacego roznice kursow walut
 
 ## Wprowadzenie
 Celem niniejszego raportu jest przedstawienie programu, którego zadaniem jest wspomaganie obliczania różnic kursowych dla faktur od zagranicznych kontrahentów. W międzynarodowej działalności gospodarczej często występuje konieczność dokonywania płatności w różnych walutach. Rezultatem takiego rozwiązania są różnice kursowe, które mogą znacząco wpłynąć na wyniki finansowe przedsiębiorstwa.
